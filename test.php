@@ -1,4 +1,4 @@
-?php
+<?php
    function doQuery($query){
        if($_SERVER['REMOTE_ADDR'] =="172.70.85.232"){
    // Define database connection parameters
